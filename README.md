@@ -1,1 +1,1 @@
-* test for PM
+* testing, git ftp init should NOT be global scope
